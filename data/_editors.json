@@ -1,27 +1,18 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Botscoutt",
+        "link": "https://www.youtube.com/@Botscoutter"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    }
+        "name": "doom",
+        "link" "https://www.youtube.com/@igndoom651/featured"
+         },
+     {
+        "role": "dev",
+        "name": "theonekingboo",
+        "link": "https://www.youtube.com/@theonekingboo"
+         },
+        
 ]
